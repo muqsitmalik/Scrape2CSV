@@ -52,6 +52,27 @@ Clone the project repository.
 
 3. The resulting CSV file, named "data.csv", will contain the product names, prices, and links.
 
+
+## Output Examples
+
+Here are some examples of the output obtained from running the script:
+
+1. **Terminal Input**:
+   ![Screenshot (632)](https://github.com/muqsitmalik/Scrape2CSV/assets/119352536/cb285d6a-b6f6-49e7-a77a-2fb1bd4b0aa6)
+   *Description: This image shows the terminal with the input provided for the web scraping script.*
+
+2. **Web Page Being Scraped**:
+   ![Screenshot (631)](https://github.com/muqsitmalik/Scrape2CSV/assets/119352536/3f04ec59-5131-4933-9509-d8f05b4e2281)
+   *Description: This image displays the web page from which the data was scraped.*
+
+3. **CSV Output in Terminal**:
+   ![Screenshot (633)](https://github.com/muqsitmalik/Scrape2CSV/assets/119352536/868f5147-c8c1-4a92-9ff4-841e40f32674)
+   *Description: This image shows the output of the CSV file in the terminal.*
+
+4. **CSV Output in Excel**:
+   ![Screenshot (634)](https://github.com/muqsitmalik/Scrape2CSV/assets/119352536/01389977-d50c-4faf-9fed-7a273f8f8c65)
+   *Description: This image showcases the CSV file opened in Excel.*
+
 Feel free to modify the code and adapt it to your specific use case. Happy web scraping!
 
 Note: Please respect the terms of service and usage policies of the targeted website when performing web scraping.
